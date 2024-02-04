@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://escape.r-dot-lab.com
+
+# Sitemaps
+Sitemap: https://escape.r-dot-lab.com/sitemap.xml
